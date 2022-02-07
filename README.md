@@ -8,19 +8,21 @@ Community health files forked and modified from [amazing-github-template](https:
 
 Install dependencies:
 
+Install python for your operating system.
+
 ```bash
-https://github.com/dec0dOS/amazing-github-template#prerequisites
+pip install --user cookiecutter
 ```
+
+More information can be [found here](https://cookiecutter.readthedocs.io/en/latest/installation.html).
 
 ## Getting Started
 
-Run the interactive prompt to generate project-specific files.
+Run the interactive prompt to generate project-specific files:
 
 ```bash
 python -m cookiecutter https://github.com/dec0dOS/amazing-github-template
 ```
-
-Or clone this repo to use for your own global `.github` repository.
 
 ## Additional Information
 
