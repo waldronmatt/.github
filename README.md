@@ -6,15 +6,7 @@ Community health files forked and modified from [amazing-github-template](https:
 
 ## Installation
 
-Install dependencies:
-
-Install python for your operating system.
-
-```bash
-pip install --user cookiecutter
-```
-
-More information can be [found here](https://cookiecutter.readthedocs.io/en/latest/installation.html).
+Directions can be [found here](https://github.com/dec0dOS/amazing-github-template#getting-started).
 
 ## Getting Started
 
