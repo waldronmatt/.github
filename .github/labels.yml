@@ -83,3 +83,6 @@
 - name: "wip"
   color: 000000
   description: "Work In Progress - Do not merge (kodiak blocking label)"
+- name: "conflict"
+  color: B60205
+  description: "Address merge conflicts (kodiak autoupdate label)"
