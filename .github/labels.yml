@@ -40,9 +40,6 @@
   color: fef2c0
   description: "This is exempt from the stale bot."
 
-- name: "security"
-  color: ee0701
-  description: "Addressing a vulnerability or security risk in this project."
 - name: "incomplete"
   color: fef2c0
   description: "Missing information."
@@ -79,10 +76,13 @@
 
 - name: "automerge"
   color: ffffff
-  description: "Automatically merge pull request (kodiak automerge label)."
+  description: "Automatically merge pull request (kodiak and renovate automerge label)."
 - name: "wip"
   color: 000000
   description: "Work In Progress - Do not merge (kodiak blocking label)"
 - name: "conflict"
-  color: B60205
+  color: b60205
   description: "Address merge conflicts (kodiak autoupdate label)"
+- name: "security"
+  color: bfd4f2
+  description: "Addressing a vulnerability or security risk (renovate security label)."
